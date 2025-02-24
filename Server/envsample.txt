@@ -1,0 +1,5 @@
+PORT=3000
+MONGODB_URI=mongodb://127.0.0.1:27017
+JWT_SECRET=awdhoawhdanwbwfuiwagwfgwaiugb
+SMS_API_KEY=your_sms_api_key
+STRIPE_SECRET_KEY=your_stripe_secret_key 
